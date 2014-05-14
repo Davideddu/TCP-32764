@@ -53,7 +53,7 @@ Backdoor confirmed in:
 - Netgear DGND3300Bv2 fwv 2.1.00.53_1.00.53GR ([issue 59](https://github.com/elvanderb/TCP-32764/issues/59))
 - Netgear DM111Pv2 ([@eguaj](https://twitter.com/eguaj/status/418143024019816448))
 - Netgear JNR3210 ([issue 37](https://github.com/elvanderb/TCP-32764/issues/37))
-
+- Netgear R6300 ([issue 15](https://github.com/elvanderb/TCP-32764/issues/15))
 Backdoor may be present in:
 - all SerComm manufactured devices (https://news.ycombinator.com/item?id=6998258)
 - Linksys WAG160N (http://zaufanatrzeciastrona.pl/post/smieszna-tylna-furtka-w-ruterach-linksysa-i-prawdopodobnie-netgeara/)
@@ -92,7 +92,6 @@ Backdoor is not working in:
 - Netgear DGND4000 (V1.1.00.14_1.00.14) ([issue 67](https://github.com/elvanderb/TCP-32764/issues/67))
 - Netgear ProSafe FVS318G fwv 3.1.1-14 (thank you Jason Leake :) )
 - Netgear R4500 firmware V1.0.0.4_1.0.3 ([issue 64](https://github.com/elvanderb/TCP-32764/issues/64))
-- Netgear R6300 ([issue 15](https://github.com/elvanderb/TCP-32764/issues/15))
 - Netgear R7000 ([@LRFLEW](https://twitter.com/LRFLEW/status/418856141032935424))
 - Netgear RP614v[4,2] V1.0.8_02.02 ([issue 22](https://github.com/elvanderb/TCP-32764/issues/22) & [issue 24](https://github.com/elvanderb/TCP-32764/issues/24))
 - Netgear VMDG480 (aka. VirginMedia SuperHub) swv 2.38.01 ([issue 16](https://github.com/elvanderb/TCP-32764/issues/16))
